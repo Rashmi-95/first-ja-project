@@ -1,3 +1,3 @@
-var demoString = 'this example exists';
-demoString = demoString.replace('exists','is awesome');
+var pizza = 'pizza is alright';
+demoString = demoString.replace('alright','wonderful');
 console.log(demoString);
