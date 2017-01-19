@@ -1,4 +1,4 @@
 function math (firstNUmber, secondNumber, thirdNumber) {
     return secondNumber * thirdNumber + firstNUmber;
 }
-console.log(math(5,10,3));
+console.log(math(53,61,67));
