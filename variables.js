@@ -1,2 +1,2 @@
-var demoString = 'This is rashmi';
+var demoString = 'some string';
 console.log(demoString);
